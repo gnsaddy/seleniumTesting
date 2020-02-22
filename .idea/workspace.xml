@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09af6d30-6078-4ee2-9013-63b967c15993" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/launchIEBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/launchIEBrowser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582346109470</updated>
-      <workItem from="1582346115808" duration="3286000" />
+      <workItem from="1582346115808" duration="3508000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582347031241</created>
@@ -165,7 +166,28 @@
       <option name="project" value="LOCAL" />
       <updated>1582349081749</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1582349881311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582349881311</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1582350025000</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582350025000</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10;&#10;initk">
+      <created>1582350046402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582350046402</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,13 +195,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="&#10;&#10;initk" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;&#10;initk" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582350023981">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582350044703">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1582350023981" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1582350044703" />
     <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1582349641377">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

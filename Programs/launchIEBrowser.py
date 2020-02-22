@@ -7,7 +7,7 @@ import os
 my_path = os.path.abspath(os.path.dirname(__file__))
 path = os.path.join(my_path, "../Drivers/x64/IEDriverServer.exe")
 
-driver = wb.Ie(path)setkdb
+driver = wb.Ie(path)
 
 # launching the url using get
 driver.get("https://www.seleniumeasy.com/")
