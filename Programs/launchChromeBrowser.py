@@ -1,6 +1,8 @@
 from selenium import webdriver as wb
 
 # relative and absolute path for giving the path of browser drivers
-driver = wb.Chrome()
+# defining the relative path for chromedriver
+driver = wb.Chrome("../Drivers/x32/chromedriver.exe")
+
 # launching the url using get
-driver.get("https://www.https://www.seleniumeasy.com/")
+driver.get("https://www.seleniumeasy.com/")

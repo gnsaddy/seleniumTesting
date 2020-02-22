@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09af6d30-6078-4ee2-9013-63b967c15993" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programs/launchChromeBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/launchChromeBrowser.py" afterDir="false" />
     </list>
@@ -32,6 +31,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -85,32 +90,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582346109470</updated>
-      <workItem from="1582346115808" duration="810000" />
+      <workItem from="1582346115808" duration="2099000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1582347031241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582347031241</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1582347065332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582347065332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1582346968848">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582347064306">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582346968848" />
-    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1582346968847">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1582347064306" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1582348684656">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582346968847" />
-    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1582346968846">
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582348684656" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1582348684655">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582346968846" />
-    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1582346968848">
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582348684655" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1582348684655">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582346968848" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582348684655" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1582348684656">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582348684656" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/seleniumTesting$launchChromeBrowser.coverage" NAME="launchChromeBrowser Coverage Results" MODIFIED="1582346954387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
+    <SUITE FILE_PATH="coverage/seleniumTesting$launchChromeBrowser.coverage" NAME="launchChromeBrowser Coverage Results" MODIFIED="1582348684623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
   </component>
 </project>
