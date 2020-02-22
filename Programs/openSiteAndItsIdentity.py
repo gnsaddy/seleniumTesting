@@ -12,22 +12,15 @@ driver.maximize_window()
 # launching the url using get
 driver.get("https://www.google.co.in/")
 # id, name, css selector, xpath
-
 # searchBox = driver.find_element_by_css_selector("input[title = 'Search']")
-
 # using xpath
-
 searchBoxPath = driver.find_element_by_xpath("//input[@role='combobox']")
 # sending request to search in search bar
 searchBoxPath.send_keys("Selenium easy")
 time.sleep(1)
 sImage = "webImages"
-
 # taking screenshots
 driver.save_screenshot("../screenShots/"+sImage+timeStr+".png")
-
-
-
 driver.find_element_by_id("lga")
 searchButtom = driver.find_element_by_css_selector("input[type='submit']")
 # using xPath
