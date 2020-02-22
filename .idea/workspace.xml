@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09af6d30-6078-4ee2-9013-63b967c15993" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/excel/TestData.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenShots/ss1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenShots/webImages20200222 = 123417.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programs/openSiteAndItsIdentity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/openSiteAndItsIdentity.py" afterDir="false" />
     </list>
@@ -21,13 +24,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y9DqbciB9p9TOahB4UNQ7IFKwg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -38,6 +44,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\seleniumTesting\excel" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.openSiteAndItsIdentity">
     <configuration name="launcgFirefoxBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -159,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582346109470</updated>
-      <workItem from="1582346115808" duration="7317000" />
+      <workItem from="1582346115808" duration="9415000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582347031241</created>
@@ -231,43 +242,55 @@
       <option name="project" value="LOCAL" />
       <updated>1582353555226</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="init">
+      <created>1582354042646</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582354042646</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&#10;&#10;initk" />
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582353553667">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582354041100">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1582353553667" />
-    <state width="1237" height="244" key="GridCell.Tab.0.bottom" timestamp="1582353951247">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1582354041100" />
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom" timestamp="1582355258303">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582353951247" />
-    <state width="1237" height="244" key="GridCell.Tab.0.center" timestamp="1582353951246">
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582355258303" />
+    <state width="1237" height="190" key="GridCell.Tab.0.center" timestamp="1582355258302">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582353951246" />
-    <state width="1237" height="244" key="GridCell.Tab.0.left" timestamp="1582353951246">
+    <state width="1237" height="190" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582355258302" />
+    <state width="1237" height="190" key="GridCell.Tab.0.left" timestamp="1582355258302">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582353951246" />
-    <state width="1237" height="244" key="GridCell.Tab.0.right" timestamp="1582353951247">
+    <state width="1237" height="190" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582355258302" />
+    <state width="1237" height="190" key="GridCell.Tab.0.right" timestamp="1582355258303">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="244" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582353951247" />
+    <state width="1237" height="190" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582355258303" />
+    <state x="363" y="257" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582355691466">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="363" y="257" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.689@0.0.1280.689" timestamp="1582355691466" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/seleniumTesting$launchChromeBrowser.coverage" NAME="launchChromeBrowser Coverage Results" MODIFIED="1582348684623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$launchIEBrowser.coverage" NAME="launchIEBrowser Coverage Results" MODIFIED="1582349629458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$launcgFirefoxBrowser.coverage" NAME="launcgFirefoxBrowser Coverage Results" MODIFIED="1582350192180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
-    <SUITE FILE_PATH="coverage/seleniumTesting$openSiteAndItsIdentity.coverage" NAME="openSiteAndItsIdentity Coverage Results" MODIFIED="1582353908621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
+    <SUITE FILE_PATH="coverage/seleniumTesting$openSiteAndItsIdentity.coverage" NAME="openSiteAndItsIdentity Coverage Results" MODIFIED="1582355178285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
   </component>
 </project>
