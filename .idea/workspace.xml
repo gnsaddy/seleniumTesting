@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09af6d30-6078-4ee2-9013-63b967c15993" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/FirefoxLaunch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/countInputBox.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/unitTestFirst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/ChromeLaunch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,29 @@
       <recent name="E:\projects\seleniumTesting\excel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in suite.py">
+  <component name="RunManager" selected="Python.countInputBox">
+    <configuration name="countInputBox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seleniumTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/countInputBox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="handlingPopups" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="seleniumTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,28 +84,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/handlingPopups.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scrapeWebsiteData" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="seleniumTesting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/scrapeWebsiteData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.countInputBox" />
         <item itemvalue="Python tests.Unittests in suite.py" />
         <item itemvalue="Python tests.Unittests in FirefoxLaunch.py" />
         <item itemvalue="Python tests.Unittests in ChromeLaunch.py" />
         <item itemvalue="Python.handlingPopups" />
-        <item itemvalue="Python.scrapeWebsiteData" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582346109470</updated>
-      <workItem from="1582346115808" duration="15850000" />
+      <workItem from="1582346115808" duration="16360000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582347031241</created>
@@ -300,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582364266180</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="init">
+      <created>1582365225312</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1582365225312</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,30 +317,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582364265622">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1582365224604">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1582364265622" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1582365224604" />
     <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1582361100289">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1582361100289" />
-    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1582365176593">
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1582365746732">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582365176593" />
-    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1582365176592">
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582365746732" />
+    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1582365746731">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582365176592" />
-    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1582365176592">
+    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582365746731" />
+    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1582365746731">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582365176592" />
-    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1582365176593">
+    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582365746731" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1582365746732">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582365176593" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582365746732" />
     <state x="363" y="257" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582355691466">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -348,6 +352,7 @@
     <SUITE FILE_PATH="coverage/seleniumTesting$testExcel.coverage" NAME="testExcel Coverage Results" MODIFIED="1582356603470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$Unittests_in_unitTestFirst_py.coverage" NAME="Unittests in unitTestFirst.py Coverage Results" MODIFIED="1582364200054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$launchIEBrowser.coverage" NAME="launchIEBrowser Coverage Results" MODIFIED="1582349629458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
+    <SUITE FILE_PATH="coverage/seleniumTesting$countInputBox.coverage" NAME="countInputBox Coverage Results" MODIFIED="1582365726051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$Unittests_in_FirefoxLaunch_py.coverage" NAME="Unittests in FirefoxLaunch.py Coverage Results" MODIFIED="1582364655201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$Unittests_in_suite_py.coverage" NAME="Unittests in suite.py Coverage Results" MODIFIED="1582365129186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$launcgFirefoxBrowser.coverage" NAME="launcgFirefoxBrowser Coverage Results" MODIFIED="1582350192180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
