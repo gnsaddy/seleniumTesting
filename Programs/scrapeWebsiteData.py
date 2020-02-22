@@ -32,6 +32,8 @@ getText = driver.find_element_by_css_selector("#rso > div:nth-child(1) >"
 valueFetched = getText.text
 print(valueFetched)
 
+# fetch and store in new workbook
 wb = xlwt.Workbook()
 ws = wb.add_sheet("Sheet 1")
-ws.write(0, 0, )
+ws.write(0, 0, valueFetched)
+wb.save("../excel/fetchFile.xls")
