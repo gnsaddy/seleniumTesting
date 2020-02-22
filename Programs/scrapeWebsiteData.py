@@ -1,7 +1,11 @@
-import xlwt, time, os
+import time
+import xlrd
+from copy import copy
+
 from selenium import webdriver
 
 timeStr = time.strftime("%Y%m%d = %H%M%S")
+excelPath = "../excel/"
 # relative and absolute path for giving the path of browser drivers
 # defining the relative path for chromedriver
 driver = webdriver.Chrome("../Drivers/x32/chromedriver.exe")
@@ -32,8 +36,16 @@ getText = driver.find_element_by_css_selector("#rso > div:nth-child(1) >"
 valueFetched = getText.text
 print(valueFetched)
 
-# fetch and store in new workbook
-wb = xlwt.Workbook()
-ws = wb.add_sheet("Sheet 1")
-ws.write(0, 0, valueFetched)
-wb.save("../excel/fetchFile.xls")
+
+# # fetch and store in new workbook
+# wb = xlwt.Workbook()
+# ws = wb.add_sheet("Sheet 1")
+# ws.write(0, 0, valueFetched)
+# wb.save(excelPath+"/fetchFile.xls")
+
+
+
+# to update in excel book
+wb = copy(xlrd.open_workbook(excelPath + "/fetchFile.xls"))
+wb.get_sheet(0).write(3, 3, valueFetched)
+wb.save(excelPath+"/fetchFile.xls")
