@@ -1,11 +1,10 @@
 import os
 import time
 import xlrd
-
 from selenium import webdriver
 
 my_path = os.path.abspath(os.path.dirname(__file__))
-drivePath = os.path.join(my_path, "../Driver/x32/chromeDriver.exe")
+drivePath = os.path.join(my_path, "../Drivers/x32/chromeDriver.exe")
 excelPath = os.path.join(my_path, "../excel/TestData.xls")
 
 driver = webdriver.Chrome(drivePath)
@@ -23,6 +22,19 @@ loginBtn = driver.find_element_by_css_selector("input[type='submit']")
 excelBook = xlrd.open_workbook(excelPath)
 ws = excelBook.sheet_by_index(0)
 username = ws.cell_value(1, 0)
-password = ws.cell_value(1, 1)
+passExcel = ws.cell_value(1, 1)
+
+email.send_keys(username)
+password.send_keys(str(passExcel))
+
+time.sleep(1)
+timeStr = time.strftime("%Y%m%d = %H%M%S")
+sImage = "webImages"
+
+# taking screenshots
+driver.save_screenshot("../screenShots/"+sImage+timeStr+".png")
+loginBtn.click()
+
+
 
 
