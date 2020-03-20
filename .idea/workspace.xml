@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09af6d30-6078-4ee2-9013-63b967c15993" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/geckodriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <recent name="E:\projects\seleniumTesting\excel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.countInputBox">
+  <component name="RunManager" selected="Python tests.Unittests in suite.py">
     <configuration name="countInputBox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="seleniumTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,8 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.countInputBox" />
         <item itemvalue="Python tests.Unittests in suite.py" />
+        <item itemvalue="Python.countInputBox" />
         <item itemvalue="Python tests.Unittests in FirefoxLaunch.py" />
         <item itemvalue="Python tests.Unittests in ChromeLaunch.py" />
         <item itemvalue="Python.handlingPopups" />
@@ -173,6 +174,9 @@
       <workItem from="1583569021052" duration="848000" />
       <workItem from="1583738937712" duration="852000" />
       <workItem from="1583820297346" duration="364000" />
+      <workItem from="1583859457325" duration="2777000" />
+      <workItem from="1583869392204" duration="1981000" />
+      <workItem from="1584696011343" duration="1641000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582347031241</created>
@@ -335,22 +339,22 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583572452689" />
-    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1582394806606">
+    <state width="1237" height="249" key="GridCell.Tab.0.bottom" timestamp="1583868651135">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1582394806606" />
-    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1582394806605">
+    <state width="1237" height="249" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1583868651135" />
+    <state width="1237" height="249" key="GridCell.Tab.0.center" timestamp="1583868651135">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1582394806605" />
-    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1582394806604">
+    <state width="1237" height="249" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1583868651135" />
+    <state width="1237" height="249" key="GridCell.Tab.0.left" timestamp="1583868651135">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1582394806604" />
-    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1582394806606">
+    <state width="1237" height="249" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1583868651135" />
+    <state width="1237" height="249" key="GridCell.Tab.0.right" timestamp="1583868651135">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1582394806606" />
+    <state width="1237" height="249" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1583868651135" />
     <state x="363" y="257" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582355691466">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -364,7 +368,7 @@
     <SUITE FILE_PATH="coverage/seleniumTesting$launchIEBrowser.coverage" NAME="launchIEBrowser Coverage Results" MODIFIED="1582349629458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$countInputBox.coverage" NAME="countInputBox Coverage Results" MODIFIED="1582365726051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$Unittests_in_FirefoxLaunch_py.coverage" NAME="Unittests in FirefoxLaunch.py Coverage Results" MODIFIED="1582364655201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
-    <SUITE FILE_PATH="coverage/seleniumTesting$Unittests_in_suite_py.coverage" NAME="Unittests in suite.py Coverage Results" MODIFIED="1582365129186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
+    <SUITE FILE_PATH="coverage/seleniumTesting$Unittests_in_suite_py.coverage" NAME="Unittests in suite.py Coverage Results" MODIFIED="1583859473339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$launcgFirefoxBrowser.coverage" NAME="launcgFirefoxBrowser Coverage Results" MODIFIED="1582350192180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$openSiteAndItsIdentity.coverage" NAME="openSiteAndItsIdentity Coverage Results" MODIFIED="1582361493962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/seleniumTesting$handlingPopups.coverage" NAME="handlingPopups Coverage Results" MODIFIED="1582363606829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
